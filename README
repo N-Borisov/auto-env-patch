@@ -1,2 +1,2 @@
-The patching process breaks the antivirus when new kernel version and supporting libraries are updated and servers are rebooted.
+The patching process breaks the antivirus when kernel version and supporting libraries are updated and servers are rebooted.
 This playbook automates the process of OS updating, rebooting and reinstalling antivirus without further interaction.
